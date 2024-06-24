@@ -55,7 +55,7 @@ int main() {
     int ch;
 
     while ((ch = getch()) != KEY_F(1)) {
-
+        printf("%d\n", ch);
     }
 
     endwin();
