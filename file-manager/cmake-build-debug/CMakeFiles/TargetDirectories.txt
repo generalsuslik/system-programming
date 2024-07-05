@@ -1,0 +1,3 @@
+/home/generalsuslik/CLionProjects/system-programming/file-manager/cmake-build-debug/CMakeFiles/file-manager.dir
+/home/generalsuslik/CLionProjects/system-programming/file-manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/generalsuslik/CLionProjects/system-programming/file-manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
