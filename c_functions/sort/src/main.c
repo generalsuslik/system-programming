@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "sort_arr.h"
-#include "sort_str.h"
+#include "arr/sort_arr.h"
+#include "string/sort_str.h"
 
 int main()
 {
