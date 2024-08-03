@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 #include "list.h"
 
 #define DEFAULT_SIZE 3
@@ -81,7 +78,7 @@ struct linked_list *reallocate_memory(struct linked_list *list)
 	}
 
 	return new_list;
-struct list_node *node = malloc(sizeof(struct list_node)); }
+}
 
 void print(struct linked_list *list)
 {
